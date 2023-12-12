@@ -119,5 +119,10 @@ namespace DESIGNER
                 Login();
             }
         }
+
+        private void btAcercaDe_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hola que hacer");
+        }
     }
 }
